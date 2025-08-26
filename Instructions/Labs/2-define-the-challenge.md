@@ -28,7 +28,7 @@ To help generate ideas, you may also prompt Copilot individually and bring your 
 
 **Steps**:  
 
-- Open a new browser tab and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat/).  
+- Open a new browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.  
 - Ensure the **Work mode** tab is selected in Copilot Chat:  
 
     ![Screenshot showing Work mode tab in Copilot Chat.](../Labs/Media/work-web-mode.png)  
@@ -62,7 +62,7 @@ Example: *“We struggle with spending too much time searching for the right inf
 
 In the provided Workshop Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on, written as a clear and concise statement.
 
-Select **Complete** to move on to the next step:<br><br>
+#### Select **Complete** to move on to the next step:
 
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/3-break-down-the-problem.html" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
@@ -70,7 +70,7 @@ Select **Complete** to move on to the next step:<br><br>
 Complete
 </a>
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Back to Workshop Home

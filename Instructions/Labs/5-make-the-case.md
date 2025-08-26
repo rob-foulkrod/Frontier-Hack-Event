@@ -43,7 +43,7 @@ As a team, agree on **one solution** to carry forward. For your chosen option, c
 
 In the provided Workshop Template, fill in the **Chosen AI/Microsoft Solution & Why** section. Summarize the AI/Microsoft solution your team selected, explain why it’s the best fit, and note why other options were not chosen.
 
-Select **Complete** to move on to the next step:<br><br>
+#### Select **Complete** to move on to the next step:
 
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/6-submit-your-idea.html" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
@@ -51,7 +51,7 @@ Select **Complete** to move on to the next step:<br><br>
 Complete
 </a>
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Back to Workshop Home

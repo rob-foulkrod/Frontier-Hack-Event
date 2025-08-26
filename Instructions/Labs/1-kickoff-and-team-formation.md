@@ -38,7 +38,7 @@ To keep your team’s ideas organized - and to ensure your final submission is c
 
 Have one person from your team:  
 
-- Open the [Team Worksheet Template](https://github.com/MicrosoftLearning/AI-Frontier-Workshop/tree/master/Resourcefiles/WWLFrontierWorkshopTemplate.docx).
+- Open the <a href="https://github.com/MicrosoftLearning/AI-Frontier-Workshop/raw/refs/heads/master/Resourcefiles/WWLFrontierWorkshopTemplate.docx" target="_blank">Team Worksheet Template</a>.
 - Download the file and save it to your desktop.  
 - Open the file and **enable editing** if prompted.  
 
@@ -68,7 +68,7 @@ If helpful, assign roles to structure your collaboration. Multiple people can sh
 
 In the provided Workshop Template, fill in the fields for Team Name and Table Number.  
 
-Select **Complete** to move on to the next step:<br><br>
+#### Select **Complete** to move on to the next step:
 
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/2-define-the-challenge.html" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
@@ -76,7 +76,7 @@ Select **Complete** to move on to the next step:<br><br>
 Complete
 </a>
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Back to Workshop Home

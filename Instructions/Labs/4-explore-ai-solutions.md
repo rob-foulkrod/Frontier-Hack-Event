@@ -22,8 +22,8 @@ Kick off by running a query in **Researcher**. Since results may take a few minu
 
 **Steps:**  
 
-1. Open a new browser tab and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat/)  
-2. In the M365 Copilot menu, expand **Agents** and select **Researcher**  
+- Open a new browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>
+- In the M365 Copilot menu, expand **Agents** and select **Researcher**  
 
     ![Screenshot showing Researcher selected in M365 Copilot menu.](../Labs/Media/researcher.png)  
 
@@ -57,7 +57,7 @@ Agree on one solution to carry forward, and capture your reasoning in the worksh
 
 In the provided Workshop Template, fill in the **Approach Options** section. Summarize the solutions your team discussed, including the one you’ve selected to carry forward.
 
-Select **Complete** to move on to the next step:<br><br>
+#### Select **Complete** to move on to the next step:
 
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/5-make-the-case.html" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
@@ -65,7 +65,7 @@ Select **Complete** to move on to the next step:<br><br>
 Complete
 </a>
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Back to Workshop Home
