@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'WWL AI Frontier Workshop – Justify Your Solution'
+    title: 'WWL AI Frontier Workshop – Make the Case'
 ---
 
-## WWL AI Frontier Workshop – Justify Your Solution  
+## WWL AI Frontier Workshop – Make the Case
 
 **Suggested time:** 10 minutes  
 
