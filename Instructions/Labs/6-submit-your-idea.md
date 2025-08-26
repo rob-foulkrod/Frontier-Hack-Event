@@ -75,8 +75,12 @@ Your team has:
 
 Thank you for your collaboration and creativity.
 
+---
+
+#### Steps Complete:
+
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
-Back to Workshop Home
+Go back to workshop home
 </a>

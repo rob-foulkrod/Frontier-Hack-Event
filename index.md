@@ -4,8 +4,6 @@ permalink: index.html
 layout: home
 ---
 
-# WWL AI Frontier Workshop  
-
 Welcome to the **WWL AI Frontier Workshop**!  
 
 This workshop is about exploring how AI and Copilot can help us tackle real challenges at work.  

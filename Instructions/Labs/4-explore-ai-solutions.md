@@ -59,6 +59,10 @@ Agree on one solution to carry forward, and capture your reasoning in the worksh
 
 In the provided Workshop Template, fill in the **Approach Options** section. Summarize the solutions your team discussed, including the one you’ve selected to carry forward.
 
+---
+
+#### Next Step: Make the Case
+
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/3-break-down-the-problem.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">

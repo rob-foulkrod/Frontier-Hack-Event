@@ -56,6 +56,10 @@ Once you’ve listed these pain points, use **Copilot Chat (or Researcher)** to 
 
 In the provided Workshop Template, fill in the **Pain Points & Inefficiencies** section. Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot.
 
+---
+
+#### Next Step: Explore AI Solutions
+
 <a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/2-define-the-challenge.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">
