@@ -64,16 +64,13 @@ Example: *“We struggle with spending too much time searching for the right inf
 
 In the provided Workshop Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on, written as a clear and concise statement.
 
-#### Select **Complete** to move on to the next step:
-
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/3-break-down-the-problem.html" 
-   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
-   text-decoration:none; border-radius:6px; font-weight:bold;">
-Complete
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/1-kickoff-and-team-formation" 
+   style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
+          background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">
+   &#x25C0; Previous
 </a>
-
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
-   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
-   text-decoration:none; border-radius:6px; font-weight:bold;">
-Back to Workshop Home
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/3-break-down-the-problem.html" 
+   style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
+          background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
+   Next &#x25B6;
 </a>

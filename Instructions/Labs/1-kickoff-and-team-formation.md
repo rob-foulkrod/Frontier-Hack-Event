@@ -70,16 +70,8 @@ If helpful, assign roles to structure your collaboration. Multiple people can sh
 
 In the provided Workshop Template, fill in the fields for Team Name and Table Number.  
 
-#### Select **Complete** to move on to the next step:
-
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/2-define-the-challenge.html" 
-   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
-   text-decoration:none; border-radius:6px; font-weight:bold;">
-Complete
-</a>
-
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
-   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
-   text-decoration:none; border-radius:6px; font-weight:bold;">
-Back to Workshop Home
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/3-break-down-the-problem.html" 
+   style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
+          background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
+   Next &#x25B6;
 </a>
