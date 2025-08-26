@@ -1,5 +1,5 @@
 ---
-title: Online Hosted Instructions
+title: Exercise Instructions
 permalink: index.html
 layout: home
 ---
