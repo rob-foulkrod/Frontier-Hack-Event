@@ -15,6 +15,8 @@ You'll complete the following:
 - Select one solution to carry forward  
 - Justify why it’s the best fit and why others were not chosen  
 
+> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+
 ### Evaluate with Copilot  
 
 Run your shortlisted solutions through Copilot to test the reasoning. Ask it to:  

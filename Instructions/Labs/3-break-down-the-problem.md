@@ -15,6 +15,8 @@ You'll complete the following activities:
 - Map pain points and inefficiencies  
 - Use Copilot to explore causes, impacts, and related discussions  
 
+> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+
 ### Break the Problem Into Smaller Issues  
 
 Work together to decompose your problem statement into sub-issues or smaller components.  

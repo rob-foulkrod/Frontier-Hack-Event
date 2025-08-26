@@ -16,6 +16,8 @@ You'll complete the following:
 - Discuss how each option could work in practice  
 - Select the most promising solution(s)  
 
+> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+
 ### Use Researcher to Gather Ideas  
 
 Kick off by running a query in **Researcher**. Since results may take a few minutes, let it process while you move on to the group discussion.  

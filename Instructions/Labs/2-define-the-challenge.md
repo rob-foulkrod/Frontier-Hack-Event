@@ -14,6 +14,8 @@ You'll complete the following:
 - Discuss current challenges or opportunities in your work environment  
 - Select one challenge to focus on and draft a clear problem statement  
 
+> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+
 ### Explore Challenges or Opportunities
 
 spend about 5 minutes sharing the day-to-day challenges you experience at work.  

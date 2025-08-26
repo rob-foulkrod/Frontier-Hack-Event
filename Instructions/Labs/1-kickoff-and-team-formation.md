@@ -16,6 +16,8 @@ You'll complete the following:
 - Create a Team Worksheet  
 - *(Optional)* Assign team roles to help structure your collaboration  
 
+> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+
 ### Team Introductions & Identify Your Table Coach  
 
 Take 5 minutes to meet your fellow team members and confirm who your Table Coach is.

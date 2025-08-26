@@ -15,6 +15,8 @@ You'll complete the following:
 - *(Optional)* Create a logo or image for your solution  
 - Submit your idea for judging  
 
+> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+
 ### Summarize Your Solution and Key Insights  
 
 In the provided Workshop Template, fill in the **Short Summary & Key Insights** section. Summarize the solution your team selected and make note of any key insights you’d like documented. This is your team’s **final required output**.  
