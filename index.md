@@ -6,9 +6,9 @@ layout: home
 
 Welcome to the **WWL AI Frontier Workshop**!  
 
-This workshop is about exploring how AI and Copilot can help us tackle real challenges at work.  
+This workshop is about exploring how AI can help us tackle real challenges at work.  
 
-You’ll collaborate with your team to define a problem, brainstorm solutions, and craft a pitch — with the help of your Table Coach and Copilot.  
+You’ll collaborate with your team to define a problem, brainstorm solutions, and craft a solution — with the help of your Table Coach and AI.  
 
 > **Goal:** Accelerate alignment on the *Frontier Firm* concept and generate **AI-driven problem statements and solution ideas**.  
 > This is not about building a technical agent — it’s about framing challenges, ideating, and shaping solutions.  
