@@ -51,8 +51,22 @@ For each option, briefly consider:
 
 Agree on one solution to carry forward, and capture your reasoning in the worksheet.
 
-## Workshop Output  
+## Your Output  
 
 **Section:** Approach Options  
 
-In your team Word document or worksheet, create a new section titled “Approach Options.” Summarize the solutions your team discussed, including the one you’ve selected to carry forward. This output will be used later on.
+In the provided Workshop Template, fill in the **Approach Options** section. Summarize the solutions your team discussed, including the one you’ve selected to carry forward.
+
+Select **Complete** to move on to the next step:<br><br>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/5-make-the-case.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Complete
+</a>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Back to Workshop Home
+</a>

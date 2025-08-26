@@ -30,25 +30,24 @@ Share:
 
 Work together to come up with a team name that represents your group. Keep it fun, creative, or tied to your focus area.  
 
-### Create a Team Worksheet  
+### Download your Teams Workshop Template
 
-Throughout the workshop, you'll be referencing notes from prior exercises. To help keep your thoughts and ideas organized, create a shared Team Worksheet. This can be a Word document or a Loop workspace.  
+Throughout the workshop, you’ll be capturing notes and outputs from each step.  
 
-Have one person from your team complete either of the following options:  
+To keep your team’s ideas organized - and to ensure your final submission is complete - use the provided **Workshop Template**.  
 
-**In Word:**  
+Have one person from your team:  
 
-- Open a browser and navigate to [word.new](https://word.new)  
-- Select **Share** in the top right corner and then **Copy Link**  
-- Share the link with your team members  
+- Open the [Team Worksheet Template](https://github.com/MicrosoftLearning/AI-Frontier-Workshop/tree/master/Resourcefiles/WWLFrontierWorkshopTemplate.docx).
+- Download the file and save it to your desktop.  
+- Open the file and **enable editing** if prompted.  
 
-**In Loop (Pages):**  
+Optionally, to make collaboration easier:  
 
-- Open a browser and navigate to [loop.cloud.microsoft](https://loop.cloud.microsoft/)  
-- Select **+ New workspace** from the top left-hand corner  
-- Name your workspace (e.g., "AI Frontier Workshop")  
-- Add your participants to the workspace where it says **Share your space**  
-- Select **Create**  
+- In the top left corner, turn on **AutoSave**.  
+- If prompted *“How do I turn on AutoSave”*, select your Microsoft OneDrive account.  
+- In the top right corner, select **Share**.  
+- Copy the link and send it to your teammates.  
 
 ### *(Optional)* Assign Team Roles  
 
@@ -63,8 +62,22 @@ If helpful, assign roles to structure your collaboration. Multiple people can sh
 - **Presenter:** Shares the team’s work during submissions.  
 - **AI Builder (optional):** Experiments with testing or prototyping later.  
 
-## Workshop Output  
+## Your Output  
 
-**Section:** Team Name  
+**Section:** Team Name & Table Number  
 
-In your team Word document or worksheet, create a section titled *“Team Name.”* Record the name your team agreed on — this will be used to identify your group throughout the workshop.
+In the provided Workshop Template, fill in the fields for Team Name and Table Number.  
+
+Select **Complete** to move on to the next step:<br><br>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/2-define-the-challenge.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Complete
+</a>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Back to Workshop Home
+</a>

@@ -54,10 +54,24 @@ A helpful way to frame it is:
 
 Example: *“We struggle with spending too much time searching for the right information because it’s spread across different tools, which impacts our ability to focus on higher-value work.”*  
 
-> **Note:** You can also use Copilot Chat to help compare your list of challenges/opportunities from Task 1 and suggest which one might have the biggest impact.  
+> **Note:** You can also use Copilot Chat to help compare your list of challenges/opportunities from the previous step and suggest which one might have the biggest impact.  
 
-## Workshop Output  
+## Your Output  
 
-**Section:** Problem Statement
+**Section:** Problem Statement  
 
-In your team Word document or worksheet, create a new section titled “Problem Statement.” Summarize the single challenge or opportunity your team agreed on, written as a clear statement. This output will be used later on.
+In the provided Workshop Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on, written as a clear and concise statement.
+
+Select **Complete** to move on to the next step:<br><br>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/3-break-down-the-problem.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Complete
+</a>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Back to Workshop Home
+</a>

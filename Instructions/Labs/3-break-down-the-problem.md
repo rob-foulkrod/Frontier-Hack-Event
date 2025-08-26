@@ -23,7 +23,7 @@ Work together to decompose your problem statement into sub-issues or smaller com
 - Are there multiple steps or areas of the workflow that contribute?  
 - Which sub-issues could be addressed independently?  
 
-This breakdown will help spark ideas for possible AI solutions in the next exercise.
+This breakdown will help spark ideas for possible AI solutions in the next section.
 
 ### Map Pain Points & Explore with Copilot  
 
@@ -48,8 +48,22 @@ Once you’ve listed these pain points, use **Copilot Chat (or Researcher)** to 
 
     > **Tip:** Use **Work Mode** to draw from your organizational data (Teams, Outlook, OneDrive), or try **Researcher** to dive deeper into public and internal resources.  
 
-## Workshop Output  
+## Your Output  
 
-**Section:** Pain Points & Inefficiencies
+**Section:** Pain Points & Inefficiencies  
 
-In your team Word document or worksheet, create a new section titled “Pain Points & Inefficiencies.” Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot. This output will be used later on.
+In the provided Workshop Template, fill in the **Pain Points & Inefficiencies** section. Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot.
+
+Select **Complete** to move on to the next step:<br><br>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/4-explore-ai-solutions.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Complete
+</a>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Back to Workshop Home
+</a>

@@ -7,7 +7,7 @@ task:
 
 **Suggested time:** 10 minutes  
 
-Now that you’ve explored possible solutions, it’s time to select the one your team believes is the best fit — and justify your choice. The goal is to explain clearly *why* you chose it, *why others weren’t selected*, and ensure it’s the right level of complexity.  
+Now that you’ve explored possible solutions, it’s time to select the one your team believes is the best fit - and justify your choice. The goal is to explain clearly *why* you chose it, *why others weren’t selected*, and ensure it’s the right level of complexity.  
 
 You'll complete the following:  
 
@@ -37,8 +37,22 @@ As a team, agree on **one solution** to carry forward. For your chosen option, c
 - Why other options were not selected  
 - How this solution avoids unnecessary complexity  
 
-## Workshop Output  
+## Your Output  
 
-**Section:** Chosen Solution & Why  
+**Section:** Chosen AI/Microsoft Solution & Why  
 
-In your team Word document or worksheet, create a new section titled *“Chosen Solution & Why.”* Summarize the AI/Microsoft solution your team selected, explain why it’s the best fit, and note why other options were not chosen. This output will be used later on.
+In the provided Workshop Template, fill in the **Chosen AI/Microsoft Solution & Why** section. Summarize the AI/Microsoft solution your team selected, explain why it’s the best fit, and note why other options were not chosen.
+
+Select **Complete** to move on to the next step:<br><br>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/6-submit-your-idea.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Complete
+</a>
+
+<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/index.html" 
+   style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
+   text-decoration:none; border-radius:6px; font-weight:bold;">
+Back to Workshop Home
+</a>
