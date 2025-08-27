@@ -72,4 +72,3 @@ In the provided Workshop Template, fill in the fields for Team Name and Table Nu
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
 </a>
-
