@@ -25,7 +25,7 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 - **Laptops:** At least one per team (more = better collaboration)  
 - **Submission Form:** <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Submit here</a>  
 - **Prizes:** Final submission required to qualify  
-- **Scoring:** *AI Frankie* scores first; judges confirm winners  
+- **Scoring:** the *Frontier AI Agent* scores first; judges review
 - **Coaches:** Each table has a coach to guide you  
 - **Prompts:** Use the provided prompts as inspiration — or try your own!  
 

@@ -14,7 +14,7 @@ You'll complete the following:
 - Introduce yourself to your team members and identify your Table Coach  
 - Come up with a team name  
 - Create a Team Worksheet  
-- *(Optional)* Assign team roles to help structure your collaboration  
+- Set your team’s collaboration style  
 
 > **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
 
@@ -40,7 +40,7 @@ To keep your team’s ideas organized - and to ensure your final submission is c
 
 Have one person from your team:  
 
-- Open the <a href="https://github.com/MicrosoftLearning/AI-Frontier-Workshop/raw/refs/heads/master/Resourcefiles/WWLFrontierWorkshopTemplate.docx" target="_blank">Team Worksheet Template</a>.
+- Open the <a href="https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/HackEventTemplate.docx" target="_blank">Team Worksheet Template</a>.
 - Download the file and save it to your desktop.  
 - Open the file and **enable editing** if prompted.  
 
@@ -67,7 +67,7 @@ In the provided Workshop Template, fill in the fields for Team Name and Table Nu
 
 #### Next Step: Define the Challenge
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/2-define-the-challenge.html" 
+<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/2-define-the-challenge.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;

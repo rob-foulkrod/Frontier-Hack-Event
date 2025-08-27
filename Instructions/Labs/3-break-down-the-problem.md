@@ -62,12 +62,12 @@ In the provided Workshop Template, fill in the **Pain Points & Inefficiencies** 
 
 #### Next Step: Explore AI Solutions
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/2-define-the-challenge.html" 
+<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/2-define-the-challenge.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">
    &#x25C0; Previous
 </a>
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/Instructions/Labs/4-explore-ai-solutions.html" 
+<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/4-explore-ai-solutions.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;

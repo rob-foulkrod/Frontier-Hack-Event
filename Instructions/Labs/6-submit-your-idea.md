@@ -79,7 +79,7 @@ Thank you for your collaboration and creativity.
 
 #### Steps Complete:
 
-<a href="https://microsoftlearning.github.io/AI-Frontier-Workshop/" 
+<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Go back to workshop home
