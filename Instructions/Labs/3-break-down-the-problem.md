@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'WWL AI Frontier Workshop – Break Down the Problem'
+    title: 'WWL Frontier Hack Event – Break Down the Problem'
 ---
 
-## WWL AI Frontier Workshop – Break Down the Problem  
+## WWL Frontier Hack Event – Break Down the Problem  
 
 **Suggested time:** 10 minutes  
 

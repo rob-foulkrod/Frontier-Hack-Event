@@ -15,4 +15,4 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-title: WWL AI Frontier Workshop
+title: WWL Frontier Hack Event

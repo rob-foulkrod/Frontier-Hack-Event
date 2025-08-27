@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'WWL AI Frontier Workshop – Kickoff & Team Formation'
+    title: 'WWL Frontier Hack Event – Kickoff & Team Formation'
 ---
 
-## WWL AI Frontier Workshop – Kickoff & Team Formation
+## WWL Frontier Hack Event – Kickoff & Team Formation
 
 **Suggested time:** 10 minutes  
 

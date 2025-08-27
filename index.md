@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-Welcome to the **WWL AI Frontier Workshop**!  
+Welcome to the **WWL Frontier Hack Event**!  
 
 This workshop is about exploring how AI can help us tackle real challenges at work.  
 

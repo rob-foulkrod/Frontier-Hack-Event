@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'WWL AI Frontier Workshop – Make the Case'
+    title: 'WWL Frontier Hack Event – Make the Case'
 ---
 
-## WWL AI Frontier Workshop – Make the Case
+## WWL Frontier Hack Event – Make the Case
 
 **Suggested time:** 10 minutes  
 

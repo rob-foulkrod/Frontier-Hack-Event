@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'WWL AI Frontier Workshop – Submit Your Idea'
+    title: 'WWL Frontier Hack Event – Submit Your Idea'
 ---
 
-## WWL AI Frontier Workshop – Submit Your Idea
+## WWL Frontier Hack Event – Submit Your Idea
 
 **Suggested time:** 10 minutes  
 
@@ -64,7 +64,7 @@ Once your Workshop Template is complete, submit your team’s idea for judging.
 
 ## 🎉 Workshop Complete!  
 
-Congratulations — you’ve finished the WWL AI Frontier Workshop sprint!  
+Congratulations — you’ve finished the WWL Frontier Hack Event sprint!  
 Your team has:  
 
 - Defined a problem or opportunity  
