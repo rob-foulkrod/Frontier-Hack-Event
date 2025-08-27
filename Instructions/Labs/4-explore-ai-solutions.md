@@ -43,6 +43,8 @@ As a team, build on the Researcher output and your own ideas. Consider:
 - Could automation or agentic workflows help streamline the process?
 - Are there simpler process changes that should be considered alongside AI?
 
+> **Tip:** If your solution could evolve into an agent, the <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a> can guide you through shaping that idea.
+
 ### Discuss & Select
 
 For each option, briefly consider:

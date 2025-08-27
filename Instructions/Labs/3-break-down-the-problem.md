@@ -21,9 +21,9 @@ You'll complete the following activities:
 
 Work together to decompose your problem statement into sub-issues or smaller components.  
 
-- What parts make this problem complex?  
+- What parts make this problem challenging?  
 - Are there multiple steps or areas of the workflow that contribute?  
-- Which sub-issues could be addressed independently?  
+- Which sub-issues could be addressed independently (including quick wins)?  
 
 This breakdown will help spark ideas for possible AI solutions in the next section.
 
@@ -35,6 +35,8 @@ Discuss and document where the current process breaks down. Focus on:
 - Bottlenecks  
 - Data gaps  
 - Sources of frustration  
+
+> **Optional:** You can also think about the impact of these issues — such as lost time, extra cost, or reduced quality. This can help Copilot (and your team) better frame the problem.
 
 Once you’ve listed these pain points, use **Copilot Chat (or Researcher)** to expand your understanding:  
 

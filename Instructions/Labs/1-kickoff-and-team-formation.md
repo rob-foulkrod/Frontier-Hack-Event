@@ -51,18 +51,11 @@ Optionally, to make collaboration easier:
 - In the top right corner, select **Share**.  
 - Copy the link and send it to your teammates.  
 
-### *(Optional)* Assign Team Roles  
+### Coach-Led Collaboration  
 
-If helpful, assign roles to structure your collaboration. Multiple people can share the same role, or you may skip this step if your team prefers to stay fluid.  
+Lean on your Table Coach to help guide how your team works together. Some teams may want to assign roles (like **Prompt Runner**, **Note Taker**, or **Presenter**) while others may prefer to stay fluid and share responsibilities.
 
-**Suggested roles:**  
-
-- **Facilitator:** Keeps the team focused and on time.  
-- **Problem Compiler:** Collects and organizes challenges into a list.  
-- **Prompt Runner:** Operates Copilot on behalf of the team.  
-- **Note Taker:** Captures key ideas and drafts the problem statement.  
-- **Presenter:** Shares the team’s work during submissions.  
-- **AI Builder (optional):** Experiments with testing or prototyping later.  
+Your coach will check in to ensure everyone is contributing and comfortable with the team’s approach - but feel free to decide together what works best for your group
 
 ## Your Output  
 

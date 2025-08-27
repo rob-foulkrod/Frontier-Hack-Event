@@ -7,7 +7,7 @@ task:
 
 **Suggested time:** 10 minutes
 
-As a team, identify and agree on one common challenge to focus on for the rest of the workshop. This could be something simple, like scheduling meetings, or something more complex, like an outdated process. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
+As a team, identify and agree on one common challenge to focus on for the rest of the workshop. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
 
 You'll complete the following:
 
@@ -46,6 +46,9 @@ To help generate ideas, you may also prompt Copilot individually and bring your 
     ```
 
     > **Note:** Replace the text within brackets with your specific choice (e.g., replace [your role focus] with program management).
+
+    > **Tip:** For extra help writing or refining prompts, try <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a>.
+ 
 
 ### Create a Problem or Opportunity Statement  
 

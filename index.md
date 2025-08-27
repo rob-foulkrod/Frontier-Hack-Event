@@ -42,6 +42,16 @@ Click a step below to open detailed instructions:
   <h3><a href="Instructions/Labs/6-submit-your-idea.html">Step 6: Submit Your Idea</a></h3>
 </div>
 
+## Optional Resources  
+
+These tools can support your team during the workshop. They’re not required, but can help if you’d like extra guidance:  
+
+- <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a><br>
+  Need help shaping an idea into a potential Copilot agent? This tool coaches you through evaluating its potential, clarifying goals, and framing a winning strategy.  
+
+- <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a><br>
+  Want better prompts? Prompt Coach helps you generate, refine, and evaluate prompts so they align with your goals and get better results with Copilot.  
+
 ## 🎯 By the End, Your Team Will Have
 
 - A **clear problem statement**  
