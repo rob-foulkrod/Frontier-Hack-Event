@@ -56,7 +56,7 @@ Once you’ve listed these pain points, use **Copilot Chat (or Researcher)** to 
 
 **Section:** Pain Points & Inefficiencies  
 
-In the provided Workshop Template, fill in the **Pain Points & Inefficiencies** section. Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot.
+In the provided Hack Event Template, fill in the **Pain Points & Inefficiencies** section. Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot.
 
 ---
 

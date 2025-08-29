@@ -16,8 +16,6 @@ You'll complete the following:
 - Create a Team Worksheet  
 - Set your team’s collaboration style  
 
-> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
-
 ### Team Introductions & Identify Your Table Coach  
 
 Take 5 minutes to meet your fellow team members and confirm who your Table Coach is.
@@ -32,15 +30,15 @@ Share:
 
 Work together to come up with a team name that represents your group. Keep it fun, creative, or tied to your focus area.  
 
-### Download your Teams Workshop Template
+### Download your Teams Hack Event Template
 
 Throughout the workshop, you’ll be capturing notes and outputs from each step.  
 
-To keep your team’s ideas organized - and to ensure your final submission is complete - use the provided **Workshop Template**.  
+To keep your team’s ideas organized - and to ensure your final submission is complete - use the provided **Hack Event Template**.  
 
 Have one person from your team:  
 
-- Open the <a href="https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/HackEventTemplate.docx" target="_blank">Team Worksheet Template</a>.
+- Open the <a href="https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/HackEventTemplate.docx" target="_blank">Hackathon Event Templatee</a>.
 - Download the file and save it to your desktop.  
 - Open the file and **enable editing** if prompted.  
 
@@ -61,7 +59,7 @@ Your coach will check in to ensure everyone is contributing and comfortable with
 
 **Section:** Team Name & Table Number  
 
-In the provided Workshop Template, fill in the fields for Team Name and Table Number.  
+In the provided Hack Event Template, fill in the fields for Team Name and Table Number.  
 
 ---
 

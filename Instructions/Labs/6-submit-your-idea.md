@@ -19,7 +19,7 @@ You'll complete the following:
 
 ### Summarize Your Solution and Key Insights  
 
-In the provided Workshop Template, fill in the **Short Summary & Key Insights** section. Summarize the solution your team selected and make note of any key insights you’d like documented. This is your team’s **final required output**.  
+In the provided Hack Event Template, fill in the **Short Summary & Key Insights** section. Summarize the solution your team selected and make note of any key insights you’d like documented. This is your team’s **final required output**.  
 
 > **Tip:** Use Copilot in Word to help generate a polished summary. Start with a brief overview of the solution, then highlight any unique aspects or important considerations.  
 
@@ -46,23 +46,23 @@ If time allows, use **Creator** to design a simple image or logo for your soluti
 
 ### Submit Your Idea  
 
-Once your Workshop Template is complete, submit your team’s idea for judging.  
+Once your Hack Event Template is complete, submit your team’s idea for judging.  
 
 > **Note:** Your Table Coach can confirm how submissions will be collected if there are any questions.  
 
 - Navigate to the <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Idea Submission Form</a>.
-- Fill out the following information (referencing your Workshop Template):  
+- Fill out the following information (referencing your Hack Event Template):  
   - Team Name  
   - Table Number  
   - Summary (Short Summary & Key Insights)  
   - Problem or Opportunity Statement  
-  - Presentation (Word) → upload your Workshop Template  
+  - Presentation (Word) → upload your Hack Event Template  
   - Tagline (optional)  
   - Participant Aliases  
   - Image (optional)  
 - Select **Submit**  
 
-## 🎉 Workshop Complete!  
+## 🎉 Workshop Complete!
 
 Congratulations — you’ve finished the WWL Frontier Hack Event sprint!  
 Your team has:  
@@ -71,7 +71,7 @@ Your team has:
 - Broken it down into pain points  
 - Explored possible AI solutions  
 - Selected and justified your best idea  
-- Captured it in a pitch for submission  
+- Captured it in a summary for submission  
 
 Thank you for your collaboration and creativity.
 

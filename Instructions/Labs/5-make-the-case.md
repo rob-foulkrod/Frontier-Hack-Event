@@ -43,7 +43,7 @@ As a team, agree on **one solution** to carry forward. For your chosen option, c
 
 **Section:** Chosen AI/Microsoft Solution & Why  
 
-In the provided Workshop Template, fill in the **Chosen AI/Microsoft Solution & Why** section. Summarize the AI/Microsoft solution your team selected, explain why it’s the best fit, and note why other options were not chosen.
+In the provided Hack Event Template, fill in the **Chosen AI/Microsoft Solution & Why** section. Summarize the AI/Microsoft solution your team selected, explain why it’s the best fit, and note why other options were not chosen.
 
 ---
 

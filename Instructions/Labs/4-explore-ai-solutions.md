@@ -59,7 +59,7 @@ Agree on one solution to carry forward, and capture your reasoning in the worksh
 
 **Section:** Approach Options  
 
-In the provided Workshop Template, fill in the **Approach Options** section. Summarize the solutions your team discussed, including the one you’ve selected to carry forward.
+In the provided Hack Event Template, fill in the **Approach Options** section. Summarize the solutions your team discussed, including the one you’ve selected to carry forward.
 
 ---
 

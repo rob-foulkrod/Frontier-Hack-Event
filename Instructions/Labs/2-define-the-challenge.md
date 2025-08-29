@@ -43,6 +43,8 @@ To help generate ideas, you may also prompt Copilot individually and bring your 
     - Title: Short label for the issue  
     - Description: Brief summary of the challenge  
     - Frequency: How often it comes up (e.g., number of mentions) 
+
+    Limit the output to the top 3 most relevant issues only.  
     ```
 
     > **Note:** Replace the text within brackets with your specific choice (e.g., replace [your role focus] with program management).
@@ -65,7 +67,7 @@ Example: *“We struggle with spending too much time searching for the right inf
 
 **Section:** Problem Statement  
 
-In the provided Workshop Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on, written as a clear and concise statement.
+In the provided Hack Event Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on, written as a clear and concise statement.
 
 ---
 
