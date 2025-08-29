@@ -15,6 +15,8 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 
 ## 🔄 Event Flow
 
+*(Suggested total time: 70 minutes)*
+
 - **Kickoff & Q&A** → Meet your team and coach  
 - **Group Work** → Define a problem, break it down, brainstorm solutions  
 - **Submission** → Complete and upload your Hack Event Template  
@@ -26,7 +28,7 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 - **Submission Form:** <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Submit here</a>  
 - **Prizes:** Final submission required to qualify  
 - **Scoring:** *AI* scores first; judges review
-- **Coaches:** Each table has a coach to guide you  
+- **Coaches:** Coaches will be shared across tables — your coach will rotate and check in to provide guidance as needed.  
 - **Prompts:** You’ll see suggested prompts throughout the steps — use them for inspiration, or try your own!
 
 ## 🚀 Your Workshop Journey

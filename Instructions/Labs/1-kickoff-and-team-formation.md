@@ -49,9 +49,9 @@ Optionally, to make collaboration easier:
 - In the top right corner, select **Share**.  
 - Copy the link and send it to your teammates.  
 
-### Coach-Led Collaboration  
+### Collaboration  
 
-Lean on your Table Coach to help guide how your team works together. Some teams may want to assign roles (like **Prompt Runner**, **Note Taker**, or **Presenter**) while others may prefer to stay fluid and share responsibilities.
+Lean on your Table Coach to help guide how your team works together. Some teams may want to assign roles (like **Prompt Runner**, **Note Taker**, or **Timekeeper**) while others may prefer to stay fluid and share responsibilities.
 
 Your coach will check in to ensure everyone is contributing and comfortable with the team’s approach - but feel free to decide together what works best for your group
 
