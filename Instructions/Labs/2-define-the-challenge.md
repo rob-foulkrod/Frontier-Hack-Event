@@ -1,6 +1,6 @@
 ---
 task:
-    title: 'WWL Frontier Frontier Hack Event – Define the Challenge'
+    title: 'WWL Frontier Hack Event – Define the Challenge'
 ---
 
 ## Step 2: Define the Challenge
@@ -36,9 +36,9 @@ Each team member will start by using **Copilot Chat** to identify common challen
     ```text
     I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from [Teams chats, emails, or other collaboration tools] related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months and limit the output to the top 3 most relevant issues only. Show the results in a table with: 
      
-      - Title: Short label for the issue  
-      - Description: Brief summary of the challenge  
-      - Frequency: How often it comes up (e.g., number of mentions) 
+    - Title: Short label for the issue  
+    - Problem Statement: Write each as a clear and concise statement of the challenge  
+    - Frequency: How often it comes up (e.g., number of mentions) 
     ```  
 
   > **Note:** Replace the text within brackets with your specific choice (e.g., program management).  
@@ -49,7 +49,7 @@ Each team member will start by using **Copilot Chat** to identify common challen
 
 ### Task 2: Prioritize Against Business Priorities  
 
-Now, review the issues Copilot surfaced. Then, run them back through Copilot to align with organizational priorities.  
+Review the problem statements Copilot surfaced in Task 1. Then, run them back through Copilot to align with organizational priorities.
 
 Run the following sample prompt in the same **Copilot Chat window from task 1**.
 
@@ -63,17 +63,11 @@ Which of these issues is most worth exploring further, when aligned to organizat
 
 ---
 
-### Task 3: Create a Problem or Opportunity Statement  
+### Task 3: Select Your Problem Statement
 
-As a team, select **one challenge or opportunity** to carry forward. Capture it clearly and simply — this will be your problem statement for the rest of the Frontier Hack Event.  
+As a team, choose **one challenge or opportunity** to carry forward. Capture it clearly and simply — this will be your problem statement for the rest of the Frontier Hack Event.  
 
-You can phrase it however feels natural:  
-- A short description (*“Manual triage of duplicated content, outdated metadata, and compliance bugs”*)  
-- Or a structured statement (*“We struggle with finding the latest versions of files because they are stored across multiple locations, which impacts our ability to collaborate efficiently”*)  
-
-The important thing is that your team agrees on one clear focus area.  
-
-> **Note:** You can also use Copilot Chat to refine and polish your statement.
+> **Tip:** If you’d like, you can use Copilot to refine the wording of your chosen statement for clarity or impact.
 
 ---
 
