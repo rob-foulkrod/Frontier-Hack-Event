@@ -35,7 +35,7 @@ If your problem feels broad, think about its smaller parts — which steps or ar
 
 ### Task 2: Explore with Copilot  
 
-Once you’ve listed your pain points, use **Copilot Chat (or Researcher)** to expand your understanding:  
+Once you’ve listed your pain points, use **Copilot Chat** to expand your understanding:  
 
 - *What are the likely root causes?*
 - *What impacts does this issue have on people, workflows, or outcomes?*
@@ -47,7 +47,7 @@ Once you’ve listed your pain points, use **Copilot Chat (or Researcher)** to e
 Explore the issue of [Insert Problem Statement Here]. Look for factors that contribute to this problem, its impact on people or workflows, and any related discussions or suggestions raised in the past six months. Summarize your findings in a simple table with three columns: Insight Type (Cause, Impact, or Suggestion), Description, and Source.  
 ```
 
-> **Tip:** Use **Work Mode** to draw from organizational data (Teams, Outlook, OneDrive), or try **Researcher** for a deeper dive.
+  > **Tip:** You can ask Copilot to output the full table directly into a Word document for easier sharing and formatting.
 
 ---
 

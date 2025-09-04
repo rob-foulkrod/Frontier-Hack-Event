@@ -43,7 +43,11 @@ Each team member will start by using **Copilot Chat** to identify common challen
 
   > **Note:** Replace the text within brackets with your specific choice (e.g., program management).  
 
-  > **Tip:** For extra help writing or refining prompts, try <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a>.
+  > **Tip:**
+  >
+  > - You can ask Copilot to output the full table directly into a Word document for easier sharing and formatting.
+  >
+  > -  For extra help writing or refining prompts, try <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a>.
 
 ---
 
