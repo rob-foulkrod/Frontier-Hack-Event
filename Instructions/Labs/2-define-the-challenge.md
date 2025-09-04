@@ -1,73 +1,87 @@
 ---
 task:
-    title: 'WWL Frontier Hack Event – Define the Challenge'
+    title: 'WWL Frontier Frontier Hack Event – Define the Challenge'
 ---
 
-## WWL Frontier Hack Event – Define the Challenge
+## Step 2: Define the Challenge
 
-**Suggested time:** 10 minutes
+**Suggested time:** 10 minutes  
 
-As a team, identify and agree on one common challenge to focus on for the rest of the workshop. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
+As a team, identify and **agree on one common challenge** to focus on for the rest of the Frontier Hack Event. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
 
-You'll complete the following:
+You'll complete the following tasks:
 
-- Discuss current challenges or opportunities in your work environment  
-- Select one challenge to focus on and draft a clear problem statement  
+- Explore challenges or opportunities in your work environment  
+- Prioritize them against business priorities  
+- Select one challenge to carry forward as your problem statement  
 
-> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+> **Note:** Complete all tasks in this step before moving forward. Sample prompts are just a starting point — adapt or create your own, and refine until Copilot delivers the results you need.
 
-### Explore Challenges or Opportunities
+> **Reminder:** Balance team discussion with Copilot insights — neither replaces the other. Use Copilot to surface ideas, then discuss as a team to decide what resonates most.
 
-spend about 5 minutes sharing the day-to-day challenges you experience at work.  
+---
 
-Consider these guiding questions:  
+### Task 1: Explore Challenges or Opportunities  
 
-- **What’s working well today**  
-- **What’s not working well**  
-- **Where AI *might* be able to help**  
+Each team member will start by using **Copilot Chat** to identify common challenges in their day-to-day work.  
 
-To help generate ideas, you may also prompt Copilot individually and bring your findings back to the group.  
-
-**Steps**:  
-
-- Open a new browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.  
+**Steps:**  
+- Open a new browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>  
 - Ensure the **Work mode** tab is selected in Copilot Chat:  
 
-    ![Screenshot showing Work mode tab in Copilot Chat.](../Labs/Media/work-web-mode.png)  
+  ![Screenshot showing Work mode tab in Copilot Chat.](../Labs/Media/work-web-mode.png)  
 
-    **Sample Prompt**:  
+  **Sample Prompt:**  
 
     ```text
-    I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from [Teams chats, Outlook emails, or other collaboration tools] related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months. Show the results in a table with:  
-    
-    - Title: Short label for the issue  
-    - Description: Brief summary of the challenge  
-    - Frequency: How often it comes up (e.g., number of mentions) 
+    I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from [Teams chats, emails, or other collaboration tools] related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months and limit the output to the top 3 most relevant issues only. Show the results in a table with: 
+     
+      - Title: Short label for the issue  
+      - Description: Brief summary of the challenge  
+      - Frequency: How often it comes up (e.g., number of mentions) 
+    ```  
 
-    Limit the output to the top 3 most relevant issues only.  
-    ```
+  > **Note:** Replace the text within brackets with your specific choice (e.g., program management).  
 
-    > **Note:** Replace the text within brackets with your specific choice (e.g., replace [your role focus] with program management).
+  > **Tip:** For extra help writing or refining prompts, try <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a>.
 
-    > **Tip:** For extra help writing or refining prompts, try <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a>.
- 
+---
 
-### Create a Problem or Opportunity Statement  
+### Task 2: Prioritize Against Business Priorities  
 
-Choose **one challenge or opportunity** from the previous discussion to carry forward. The goal is to capture it clearly and simply so you can explore solutions later.  
+Now, review the issues Copilot surfaced. Then, run them back through Copilot to align with organizational priorities.  
 
-A helpful way to frame it is:  
-> “We [struggle with / see an opportunity to] **[X]** because **[Y]**, which impacts or could improve **[Z]**.”  
+Run the following sample prompt in the same **Copilot Chat window from task 1**.
 
-Example: *“We struggle with spending too much time searching for the right information because it’s spread across different tools, which impacts our ability to focus on higher-value work.”*  
+**Sample Prompt:**
 
-> **Note:** You can also use Copilot Chat to help compare your list of challenges/opportunities from the previous step and suggest which one might have the biggest impact.  
+```text
+Which of these issues is most worth exploring further, when aligned to organizational priorities set by /[name of org leader or manager]?  
+```
+
+> **Note:** Use the **/** reference feature in Copilot Chat to tag the leader or manager by name.
+
+---
+
+### Task 3: Create a Problem or Opportunity Statement  
+
+As a team, select **one challenge or opportunity** to carry forward. Capture it clearly and simply — this will be your problem statement for the rest of the Frontier Hack Event.  
+
+You can phrase it however feels natural:  
+- A short description (*“Manual triage of duplicated content, outdated metadata, and compliance bugs”*)  
+- Or a structured statement (*“We struggle with finding the latest versions of files because they are stored across multiple locations, which impacts our ability to collaborate efficiently”*)  
+
+The important thing is that your team agrees on one clear focus area.  
+
+> **Note:** You can also use Copilot Chat to refine and polish your statement.
+
+---
 
 ## Your Output  
 
 **Section:** Problem Statement  
 
-In the provided Hack Event Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on, written as a clear and concise statement.
+In the provided Hack Event Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on as a clear, concise statement.
 
 ---
 

@@ -3,26 +3,27 @@ task:
     title: 'WWL Frontier Hack Event – Explore AI Solutions'
 ---
 
-## WWL Frontier Hack Event – Explore AI Solutions  
+## Step 4: Explore AI Solutions  
 
 **Suggested time:** 20 minutes  
 
-From the list of sub-issues and pain points you identified in the last step, choose one to focus on. The goal is to brainstorm broadly, consider different types of Microsoft solutions, and then select one or two promising options to carry forward.
+Now that you’ve mapped the pain points around your chosen problem, it’s time to explore possible solutions. The goal is to use Copilot to surface ideas, review them together, and decide on the best option to carry forward.  
 
-You'll complete the following:
+You'll complete the following tasks:  
 
-- Use **Researcher** to gather solution ideas  
-- Brainstorm and capture AI solution options  
-- Discuss how each option could work in practice  
-- Select the most promising solution(s)  
+- Use **Researcher** to generate solution ideas  
+- Review and discuss the output as a group  
+- Select the most promising solution(s)
 
-> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+> **Note:** Complete all tasks in this step before moving forward. Sample prompts are just a starting point — adapt or create your own, and refine until Copilot delivers the results you need.
 
-### Use Researcher to Gather Ideas  
+---
 
-Kick off by running a query in **Researcher**. Since results may take a few minutes, let it process while you move on to the group discussion.  
+### Task 1: Use Researcher to Gather Ideas  
 
-**Steps:**  
+Pick one teammate to run a query in **Researcher**. Researcher can take up to 10 minutes to complete. While it’s running, the rest of the team can start brainstorming possible solution approaches on their own — what tools, automations, or AI capabilities might help? Later, you’ll compare these ideas against the Researcher output in the next task.
+
+**Steps:**
 
 - Open a new browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>
 - In the M365 Copilot menu, expand **Agents** and select **Researcher**  
@@ -32,34 +33,51 @@ Kick off by running a query in **Researcher**. Since results may take a few minu
     **Sample Prompt:**  
 
     ```text
-    Explore possible AI-powered solutions to address [Insert Selected Sub-Issue Here]. Focus on three categories: Prebuilt Copilot features (M365 Copilot, Copilot Agents), Declarative solutions (SharePoint Agents, Agent Builder, M365 Agents Toolkit, Copilot Studio), and Custom solutions (Copilot Studio, Azure AI Foundry, Semantic Kernel). Summarize options and how they could help automate, improve, or streamline the workflow.
+    Explore possible AI-powered solutions to address [Insert Problem Statement Here].  
+
+    1. Start with three bullet points summarizing the most relevant findings.  
+    2. Provide a table of possible solutions across three categories:  
+       - Prebuilt Copilot features  
+       - Declarative solutions  
+       - Custom solutions  
+       For each solution, include: Solution Name, Description, and Potential Benefits.  
+    3. Conclude with a recommendation: suggest one AI solution from the list that appears most promising for addressing this problem, and explain why it best addresses the findings.
     ```  
 
-### Brainstorm AI Solutions
+---
 
-As a team, build on the Researcher output and your own ideas. Consider:
+### Task 2: Review & Decide  
 
-- Which Prebuilt, Declarative, or Custom solutions might apply?
-- Could automation or agentic workflows help streamline the process?
-- Are there simpler process changes that should be considered alongside AI?
+As a team:  
 
-> **Tip:** If your solution could evolve into an agent, the <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a> can guide you through shaping that idea.
+- Review the three summary bullets and solution from Researcher  
+- React to its recommendation — do you agree, or would you choose differently?  
+- Capture **two or three final approach options**, marking the one you’ll carry forward  
 
-### Discuss & Select
+> **Tip:** If your chosen solution could evolve into an agent, the <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a> can help you shape that idea.
 
-For each option, briefly consider:
-
-- How would it fit into your workflow?
-- Who benefits most from this solution?
-- What risks or limitations exist?
-
-Agree on one solution to carry forward, and capture your reasoning in the worksheet.
+---
 
 ## Your Output  
 
 **Section:** Approach Options  
 
-In the provided Hack Event Template, fill in the **Approach Options** section. Summarize the solutions your team discussed, including the one you’ve selected to carry forward.
+In the provided Hack Event Template, fill in the **Approach Options** section. Summarize the solutions you reviewed, including the one your team selected to carry forward.  
+
+---
+
+#### Next Step: Make the Case
+
+<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/3-break-down-the-problem.html" 
+   style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
+          background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">
+   &#x25C0; Previous
+</a>
+<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/5-make-the-case.html" 
+   style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
+          background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
+   Next &#x25B6;
+</a>
 
 ---
 

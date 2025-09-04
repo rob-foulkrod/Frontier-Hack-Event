@@ -3,60 +3,59 @@ task:
     title: 'WWL Frontier Hack Event – Break Down the Problem'
 ---
 
-## WWL Frontier Hack Event – Break Down the Problem  
+## Step 3: Break Down the Problem  
 
 **Suggested time:** 10 minutes  
 
-Next, your team will take the problem or opportunity you defined earlier and break it down into smaller parts. The goal is to clarify the statement, decompose it into smaller issues, map pain points, and use Copilot to uncover contributing factors or impacts.  
+Now that your team has agreed on a problem statement, the next step is to dig deeper. The goal is to map out the pain points, inefficiencies, and root causes that make this problem worth solving.  
 
-You'll complete the following activities:  
+You'll complete the following tasks:
 
-- Break the problem into smaller issues or components  
 - Map pain points and inefficiencies  
-- Use Copilot to explore causes, impacts, and related discussions  
+- Use Copilot to expand on causes, impacts, and related discussions  
 
-> **Note:** The provided sample prompts are just a starting point. Work with your team to adapt or create your own, and refine until Copilot delivers the results you need.
+> **Note:** Complete all tasks in this step before moving forward. Sample prompts are just a starting point — adapt or create your own, and refine until Copilot delivers the results you need.
 
-### Break the Problem Into Smaller Issues  
+---
 
-Work together to decompose your problem statement into sub-issues or smaller components.  
+### Task 1: Map Pain Points  
 
-- What parts make this problem challenging?  
-- Are there multiple steps or areas of the workflow that contribute?  
-- Which sub-issues could be addressed independently (including quick wins)?  
-
-This breakdown will help spark ideas for possible AI solutions in the next section.
-
-### Map Pain Points & Explore with Copilot  
-
-Discuss and document where the current process breaks down. Focus on:  
+As a team, discuss and document where the current process breaks down. Focus on:
 
 - Manual tasks  
 - Bottlenecks  
 - Data gaps  
 - Sources of frustration  
 
-> **Optional:** You can also think about the impact of these issues — such as lost time, extra cost, or reduced quality. This can help Copilot (and your team) better frame the problem.
+If your problem feels broad, think about its smaller parts — which steps or areas contribute most, and which might be quick wins?  
 
-Once you’ve listed these pain points, use **Copilot Chat (or Researcher)** to expand your understanding:  
+> **Optional:** You can also consider impact metrics like lost time, extra cost, or reduced quality. This can help Copilot (and your team) better frame the problem.  
 
-- What are the likely root causes?  
-- What impacts does this issue have on people, workflows, or outcomes?  
-- Have any related suggestions or discussions surfaced in the past six months?  
+---
 
-    **Sample Prompt:**
+### Task 2: Explore with Copilot  
 
-    ```text
-    Explore the issue of [Insert Problem Statement Here]. Look for factors that contribute to this problem, its impact on people or workflows, and any related discussions or suggestions raised in the past six months. Summarize your findings in a simple table with three columns: Insight Type (Cause, Impact, or Suggestion), Description, and Source.
-     ```
+Once you’ve listed your pain points, use **Copilot Chat (or Researcher)** to expand your understanding:  
 
-    > **Tip:** Use **Work Mode** to draw from your organizational data (Teams, Outlook, OneDrive), or try **Researcher** to dive deeper into public and internal resources.  
+- *What are the likely root causes?*
+- *What impacts does this issue have on people, workflows, or outcomes?*
+- *Have any related suggestions or discussions surfaced in the past six months?*
+
+**Sample Prompt:**  
+
+```text
+Explore the issue of [Insert Problem Statement Here]. Look for factors that contribute to this problem, its impact on people or workflows, and any related discussions or suggestions raised in the past six months. Summarize your findings in a simple table with three columns: Insight Type (Cause, Impact, or Suggestion), Description, and Source.  
+```
+
+> **Tip:** Use **Work Mode** to draw from organizational data (Teams, Outlook, OneDrive), or try **Researcher** for a deeper dive.
+
+---
 
 ## Your Output  
 
 **Section:** Pain Points & Inefficiencies  
 
-In the provided Hack Event Template, fill in the **Pain Points & Inefficiencies** section. Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot.
+In the provided Hack Event Template, fill in the **Pain Points & Inefficiencies** section. Summarize the main breakdowns your team identified, along with any root causes, impacts, or suggestions surfaced with Copilot.  
 
 ---
 

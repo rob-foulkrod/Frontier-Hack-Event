@@ -6,7 +6,7 @@ layout: home
 
 Welcome to the **WWL Frontier Hack Event**!  
 
-This workshop is about exploring how AI can help us tackle real challenges at work.  
+This Hack Event  is about exploring how AI can help us tackle real challenges at work.  
 
 You’ll collaborate with your team to define a problem, brainstorm solutions, and craft a solution — with the help of your Table Coach and AI.  
 
@@ -30,8 +30,9 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 - **Scoring:** *AI* scores first; judges review
 - **Coaches:** Coaches will be shared across tables — your coach will rotate and check in to provide guidance as needed.  
 - **Prompts:** You’ll see suggested prompts throughout the steps — use them for inspiration, or try your own!
+- **Balance:** Use both Copilot and team discussion throughout — neither replaces the other, they work best together.
 
-## 🚀 Your Workshop Journey
+## 🚀 Your Hack Event  Journey
 
 Click a step below to open detailed instructions:  
 
@@ -46,7 +47,7 @@ Click a step below to open detailed instructions:
 
 ## Optional Resources  
 
-These tools can support your team during the workshop. They’re not required, but can help if you’d like extra guidance:  
+These tools can support your team during the Hack Event . They’re not required, but can help if you’d like extra guidance:  
 
 - <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a><br>
   Need help shaping an idea into a potential Copilot agent? This tool coaches you through evaluating its potential, clarifying goals, and framing a winning strategy.  
