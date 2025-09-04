@@ -73,9 +73,9 @@ As a team, choose **one challenge or opportunity** to carry forward. Capture it 
 
 ## Your Output  
 
-**Section:** Problem Statement  
+**Section:** Problem or opportunity statement
 
-In the provided Hack Event Template, fill in the **Problem Statement** section. Summarize the single challenge or opportunity your team agreed on as a clear, concise statement.
+In the provided Hack Event Template, fill in the **Problem or opportunity statement** section. Summarize the single challenge or opportunity your team agreed on as a clear, concise statement.
 
 ---
 

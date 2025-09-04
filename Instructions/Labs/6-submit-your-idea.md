@@ -21,7 +21,7 @@ You'll complete the following Tasks:
 
 ### Task 1: Summarize Your Solution and Key Insights  
 
-In the provided Hack Event Template, fill in the **Short Summary & Key Insights** section. Summarize the solution your team selected and make note of any key insights you’d like documented. This is your team’s **final required output**.  
+In the provided Hack Event Template, fill in the **Short Summary & Key Insights** section. Summarize the solution your team selected and make note of any key insights you’d like documented. This is your team’s **final required output**. *If your solution doesn’t have a name yet, take a moment to create one now - we will reference it later*.
 
 > **Tip:** Use Copilot in Word to help generate a polished summary. Start with a brief overview of the solution, then highlight any unique aspects or important considerations.  
 
@@ -60,8 +60,8 @@ Once your Frontier Hack Event Template is complete, submit your team’s idea fo
 - Fill out the following information (referencing your Hack Event Template):  
   - Solution idea title
   - Table Number  
-  - Short Summary & Key Insights  
-  - Problem or Opportunity Statement  
+  - Short Summary & Key Insights → Copy from Hack Event Template
+  - Problem or Opportunity Statement → Copy from Hack Event Template 
   - Hack event template (word) → upload your Hack Event Template  
   - Participant Aliases  
   - Media/Image describing your project (optional)  
