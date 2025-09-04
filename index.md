@@ -21,18 +21,20 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 - **Group Work** → Define a problem, break it down, brainstorm solutions  
 - **Submission** → Complete and upload your Hack Event Template  
 - **Prizes** → Submissions scored by *AI* and reviewed by judges  
-  - Ranked on these categories:  
-    - **Strategic Alignment**  
-    - **Quantifiable Business Value**  
-    - **Team Impact**  
-    - **Sustainability & Scalability**  
-    - **Outcome Clarity**  
 
 ## 📝 What to Know
 
+- **Prizes:** Final submission required to qualify
+
+  **Ranked on these categories:**  
+  - Strategic Alignment  
+  - Quantifiable Business Value  
+  - Team Impact  
+  - Sustainability & Scalability  
+  - Outcome Clarity
+
 - **Laptops:** At least one per team (more = better collaboration)  
-- **Submission Form:** <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Submit here</a>  
-- **Prizes:** Final submission required to qualify  
+- **Submission Form:** <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Submit here</a>   
 - **Scoring:** *AI* scores first; judges review
 - **Coaches:** Coaches will be shared across tables — your coach will rotate and check in to provide guidance as needed.  
 - **Prompts:** You’ll see suggested prompts throughout the steps — use them for inspiration, or try your own!
