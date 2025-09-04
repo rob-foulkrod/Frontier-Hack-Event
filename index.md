@@ -21,6 +21,12 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
 - **Group Work** → Define a problem, break it down, brainstorm solutions  
 - **Submission** → Complete and upload your Hack Event Template  
 - **Prizes** → Submissions scored by *AI* and reviewed by judges  
+   - Ranked on these categories:  
+     - **Strategic Alignment**  
+     - **Quantifiable Business Value**  
+     - **Team Impact**  
+     - **Sustainability & Scalability**  
+     - **Outcome Clarity**  
 
 ## 📝 What to Know
 
