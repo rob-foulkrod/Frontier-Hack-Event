@@ -30,11 +30,17 @@ You’ll collaborate with your team to define a problem, brainstorm solutions, a
   - Team Impact  
   - Sustainability & Scalability  
   - Outcome Clarity
+
 - **Laptops:** At least one per team (more = better collaboration)  
-- **Submission Form:** <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Submit here</a>   
+
+- **Submission Form:** <a href="https://microsoftapc.sharepoint.com/teams/SyncWeekHack/_layouts/15/listforms.aspx?cid=NmEzYTBhM2MtODNhMi00M2IwLTk5ZGQtZmYzMGZiMTQyYTdi&nav=YjJlZjI3MWItODgxNy00NmE1LTliNzItOWJmMjJkOTY2NTZh" target="_blank">Submit here</a>
+
 - **Scoring:** *AI* scores first; judges review
+
 - **Coaches:** Coaches will be shared across tables — your coach will rotate and check in to provide guidance as needed.  
+
 - **Prompts:** You’ll see suggested prompts throughout the steps — use them for inspiration, or try your own!
+
 - **Balance:** Use both Copilot and team discussion throughout — neither replaces the other, they work best together.
 
 ## 🚀 Your Hack Event  Journey
