@@ -33,18 +33,19 @@ Pick one teammate to run a query in **Researcher**. Researcher can take up to 10
     **Sample Prompt:**  
 
     ```text
-    Explore possible AI-powered solutions to address [Insert Problem Statement Here].  
-
-    1. Start with three bullet points summarizing the most relevant findings.  
-    2. Provide a table of possible solutions across three categories:  
-       - Prebuilt Copilot features  
-       - Declarative solutions  
-       - Custom solutions  
-       For each solution, include: Solution Name, Description, and Potential Benefits.  
-    3. Conclude with a recommendation: suggest one AI solution from the list that appears most promising for addressing this problem, and explain why it best addresses the findings.
+    Propose AI-powered solutions to directly address this problem: [Inset problem statement]
+     
+    1. Start with three bullet points summarizing the most relevant challenges or pain points that make this problem worth solving.  
+    2. Suggest up to three specific AI solutions. For each, include:  
+       - Solution Name (be specific, e.g., “Copilot Studio Agent that auto-flags duplicate course files”)  
+       - How it would work to solve this problem in practice  
+       - Key Benefits for the team or organization  
+    3. Conclude with one clear recommendation: which single solution is most promising, and why it stands out over the others.  
     ```  
 
----
+> **Note:** Researcher may request additional context to help refine its output before providing a final response.
+
+--- 
 
 ### Task 2: Review & Decide  
 

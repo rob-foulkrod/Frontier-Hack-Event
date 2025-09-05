@@ -15,7 +15,7 @@ You'll complete the following Tasks:
 - *(Optional)* Create a logo or image for your solution  
 - Submit your idea for judging  
 
-> **Note:** Complete all tasks in this step before moving forward. Sample prompts are just a starting point — adapt or create your own, and refine until Copilot delivers the results you need.
+> **Note:** Sample prompts are just a starting point — adapt or create your own, and refine until Copilot delivers the results you need.
 
 ---
 
