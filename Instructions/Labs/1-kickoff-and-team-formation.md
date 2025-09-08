@@ -41,15 +41,14 @@ To keep your team’s ideas organized - and to ensure your final submission is c
 Have one person from your team:  
 
 - Open the <a href="https://github.com/MicrosoftLearning/Frontier-Hack-Event/raw/refs/heads/master/Resourcefiles/HackEventTemplate.docx" target="_blank">Hack Event Template</a>.
-- Download the file and save it to your desktop.  
+- Download the template—it should now appear in your 'Downloads' folder.
 - Open the file and **enable editing** if prompted.  
 
 Optionally, to make collaboration easier:  
 
-- In the top left corner, turn on **AutoSave**.  
-- If prompted *“How do I turn on AutoSave”*, select your Microsoft OneDrive account.  
-- In the top right corner, select **Share**.  
-- Copy the link and send it to your teammates.  
+- In the top-right corner, select **Share** > **Share...**.  
+- If prompted *“Please upload your document to share it”*, choose your Microsoft OneDrive account.  
+- In the new window that appears, select **Copy link** and share it with your teammates.  
 
 ### Task 4: Collaboration (Optional)  
 

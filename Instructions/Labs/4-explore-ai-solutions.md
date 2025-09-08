@@ -47,7 +47,7 @@ Pick one teammate to run a query in **Researcher**. Researcher can take several 
 
 > **Note:** Researcher may request additional context to help refine its output before providing a final response.
 
---- 
+---
 
 ### Task 2: Review & Decide  
 
@@ -56,8 +56,6 @@ As a team:
 - Review the three summary bullets and solution from Researcher  
 - React to its recommendation — do you agree, or would you choose differently?  
 - Capture **two or three final approach options**, marking the one you’ll carry forward  
-
-> **Tip:** If your chosen solution could evolve into an agent, the <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a> can help you shape that idea.
 
 ---
 

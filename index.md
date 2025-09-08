@@ -54,10 +54,7 @@ Click a step below to open detailed instructions:
 
 ## Optional Resources  
 
-These tools can support your team during the Hack Event . They’re not required, but can help if you’d like extra guidance:  
-
-- <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a><br>
-  Need help shaping an idea into a potential Copilot agent? This tool coaches you through evaluating its potential, clarifying goals, and framing a winning strategy.  
+These tools can support your team during the Hack Event . They’re not required, but can help if you’d like extra guidance:
 
 - <a href="https://m365.cloud.microsoft/chat/?titleId=P_be483bea-dc19-b6ae-1d69-fde1f2c7b661" target="_blank">Idea Coach</a><br>
   Looking for a brainstorming companion? Idea Coach is designed to inspire creativity and help you navigate the brainstorming process with ease.
