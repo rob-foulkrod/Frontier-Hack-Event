@@ -32,7 +32,7 @@ Share:
 
 Work together to come up with a team name that represents your group. Keep it fun, creative, or tied to your focus area.  
 
-### Task 3: Download your TeamsHack Event Template
+### Task 3: Download your Teams Hack Event Template
 
 Throughout the Frontier Hack Event, you’ll be capturing notes and outputs from each step.  
 
