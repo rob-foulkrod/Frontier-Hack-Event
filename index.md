@@ -59,6 +59,9 @@ These tools can support your team during the Hack Event . They’re not required
 - <a href="https://aka.ms/2025jul-agentideation-engage" target="_blank">Copilot Agent Ideation Partner</a><br>
   Need help shaping an idea into a potential Copilot agent? This tool coaches you through evaluating its potential, clarifying goals, and framing a winning strategy.  
 
+- <a href="https://m365.cloud.microsoft/chat/?titleId=P_be483bea-dc19-b6ae-1d69-fde1f2c7b661" target="_blank">Idea Coach</a><br>
+  Looking for a brainstorming companion? Idea Coach is designed to inspire creativity and help you navigate the brainstorming process with ease.
+
 - <a href="https://appsource.microsoft.com/en-us/product/office/WA200007578" target="_blank">Prompt Coach</a><br>
   Want better prompts? Prompt Coach helps you generate, refine, and evaluate prompts so they align with your goals and get better results with Copilot.  
 

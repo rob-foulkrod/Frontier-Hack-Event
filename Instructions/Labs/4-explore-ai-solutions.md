@@ -21,9 +21,11 @@ You'll complete the following tasks:
 
 ### Task 1: Use Researcher to Gather Ideas  
 
-Pick one teammate to run a query in **Researcher**. Researcher can take up to 10 minutes to complete. While it’s running, the rest of the team can start brainstorming possible solution approaches on their own — what tools, automations, or AI capabilities might help? Later, you’ll compare these ideas against the Researcher output in the next task.
+Pick one teammate to run a query in **Researcher**. Researcher can take several minutes to complete. While it’s running, the rest of the team can start brainstorming possible solution approaches on their own — what tools, automations, or AI capabilities might help? Later, you’ll compare these ideas against the Researcher output in the next task.
 
-**Steps:**
+> **Tip:** For those not running Researcher, try <a href="https://m365.cloud.microsoft/chat/?titleId=P_be483bea-dc19-b6ae-1d69-fde1f2c7b661" target="_blank">Idea Coach</a><br> as a brainstorming companion. It’s designed to spark creativity and can help keep your discussion focused while you wait.
+
+**Steps (For Researcher):**
 
 - Open a new browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>
 - In the M365 Copilot menu, expand **Agents** and select **Researcher**  
