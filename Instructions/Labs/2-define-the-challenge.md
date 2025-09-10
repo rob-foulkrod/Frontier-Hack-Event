@@ -7,7 +7,7 @@ task:
 
 **Suggested time:** 10 minutes  
 
-As a team, identify and **agree on one common challenge** to focus on for the rest of the Frontier Hack Event. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
+As a team, **identify and agree on one common challenge** to focus on for the rest of the Frontier Hack Event. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.
 
 You'll complete the following tasks:
 
@@ -51,11 +51,11 @@ Each team member will start by using **Copilot Chat** to identify common challen
 
 ---
 
-### Task 2: Prioritize Against Business Priorities  
+### Task 2: Prioritize Against Business  
 
 Review the problem statements Copilot surfaced in Task 1. Then, run them back through Copilot to align with organizational priorities.
 
-Run the following sample prompt in the same **Copilot Chat window from task 1**.
+Run the following sample prompt in the **same Copilot Chat window from task 1**.
 
 **Sample Prompt:**
 

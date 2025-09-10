@@ -53,7 +53,7 @@ Pick one teammate to run a query in **Researcher**. Researcher can take several 
 
 As a team:  
 
-- Review the three summary bullets and solution from Researcher  
+- Review the three summary bullets and the solution from Researcher, as well as any other solution ideas your team developed during your discussion. 
 - React to its recommendation — do you agree, or would you choose differently?  
 - Capture **two or three final approach options**, marking the one you’ll carry forward  
 

@@ -11,7 +11,7 @@ You'll start the Frontier Hack Event  by meeting your team members and Table Coa
 
 You'll complete the following tasks:  
 
-- Introduce yourself to your team members and identify your Table Coach  
+- Introduce yourself to your team members and identify your table coach  
 - Come up with a team name  
 - Create a Team Worksheet  
 - Set your team’s collaboration style  
@@ -20,7 +20,7 @@ You'll complete the following tasks:
 
 ### Task 1: Team Introductions & Identify Your Table Coach  
 
-Take 5 minutes to meet your fellow team members and confirm who your Table Coach is.
+Take 5 minutes to meet your fellow team members and confirm who your table coach is.
 
 Share:  
 
@@ -61,7 +61,7 @@ If helpful, assign roles to structure your collaboration. Multiple people can sh
 - **Note Taker:** Captures key ideas and drafts the problem statement.  
 - **Time Keeper:** Keeps the team on track with the schedule.
 
-Consider starting a Teams group chat with your teammates to make it easier to share prompt results later.
+**Consider starting a Teams group chat with your teammates to make it easier to share prompt results later.**
 
 ## Your Output  
 
