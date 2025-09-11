@@ -51,7 +51,7 @@ Click a step below to open detailed instructions:
   <h3><a href="Instructions/Labs/6-submit-your-idea.html">Step 6: Submit Your Idea</a></h3>
 </div>
 
-## Optional Resources  
+## 💡 Helpful Resources
 
 These tools can support your team during the Hack Event . They’re not required, but can help if you’d like extra guidance:
 
