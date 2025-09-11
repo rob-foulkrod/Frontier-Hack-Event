@@ -34,14 +34,14 @@ Each team member will start by using **Copilot Chat** to identify common challen
   **Sample Prompt:**  
 
     ```text
-    I’m researching common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from [Teams chats, emails, or other collaboration tools] related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months and limit the output to the top 3 most relevant issues only. Show the results in a table with: 
+    I’m investigating common day-to-day issues I face at work, such as processes, collaboration, or time management. Look at recent conversations from Teams chats and emails related to [your role focus, i.e., content development, technical training, program management]. Summarize the key issues or pain points mentioned in the last 6 months and limit the output to the top 3 most relevant issues only. Show the results in a table with: 
      
     - Title: Short label for the issue  
     - Problem Statement: Write each as a clear and concise statement of the challenge  
     - Frequency: How often it comes up (e.g., number of mentions) 
     ```  
 
-  > **Note:** Replace the text within brackets with your specific choice (e.g., program management).  
+  > **Note:** Replace the text within brackets with your specific role focus (e.g., program management).  
 
   > **Tip:**
   >
