@@ -10,8 +10,7 @@ This Hack Event  is about exploring how AI can help us tackle real challenges at
 
 You’ll collaborate with your team to define a problem, brainstorm solutions, and craft a solution — with the help of your Table Coach and AI.  
 
-> **Goal:** Accelerate alignment on the *Frontier Firm* concept and generate **AI-driven problem statements and solution ideas**.  
-> This is not about building a technical agent — it’s about framing challenges, ideating, and shaping solutions.  
+> **Goal:** Accelerate alignment on the Frontier Firm concept and generate problem statements and solution ideas that could one day inform agent development. This exercise is about the process — framing challenges, collaborating, and ideating together — not about delivering a finished agent.
 
 ## 🔄 Event Flow
 
