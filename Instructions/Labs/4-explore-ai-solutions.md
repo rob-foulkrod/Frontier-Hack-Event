@@ -45,7 +45,7 @@ Pick one teammate to run a query in **Researcher**. Researcher can take several 
     3. Conclude with one clear recommendation: which single solution is most promising, and why it stands out over the others.  
     ```  
 
-> **Note:** Researcher may request additional context to help refine its output before providing a final response.
+> **Note:** Researcher may ask for additional context to refine its output before completing a response. Please keep an eye out and provide input if prompted.
 
 ---
 
