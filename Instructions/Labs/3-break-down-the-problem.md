@@ -5,6 +5,8 @@ task:
 
 ## Step 3: Break Down the Problem  
 
+> ### ⏰ **Start time around 3:30 PM**
+
 **Suggested time:** 10 minutes  
 
 Now that your team has agreed on a problem statement, the next step is to dig deeper. The goal is to map out the pain points, inefficiencies, and root causes that make this problem worth solving.  

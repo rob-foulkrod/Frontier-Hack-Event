@@ -5,6 +5,8 @@ task:
 
 ## Step 1: Kickoff & Team Formation
 
+> ### ⏰ **Start time around 3:10 PM**
+
 **Suggested time:** 10 minutes
 
 You'll start the Frontier Hack Event  by meeting your team members and Table Coach. This is your chance to build rapport and set the tone for how you’ll collaborate during the rest of the session. By the end, your team should feel comfortable working together and ready to dive into problem-solving.  

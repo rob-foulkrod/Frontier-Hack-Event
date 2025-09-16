@@ -5,6 +5,8 @@ task:
 
 ## Step 4: Explore AI Solutions  
 
+> ### ⏰ **Start time around 3:40 PM**
+
 **Suggested time:** 20 minutes  
 
 Now that you’ve mapped the pain points around your chosen problem, it’s time to explore possible solutions. The goal is to use Copilot to surface ideas, review them together, and decide on the best option to carry forward.  

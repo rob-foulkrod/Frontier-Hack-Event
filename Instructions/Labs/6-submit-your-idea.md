@@ -5,6 +5,8 @@ task:
 
 ## Step 6: Submit Your Idea
 
+> ### ⏰ **Start time around 4:10 PM**
+
 **Suggested time:** 10 minutes  
 
 In this final step, your team will bring everything together and submit your idea for judging.
