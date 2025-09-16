@@ -92,3 +92,10 @@ Reminder: Not building a technical agent or solutioning here
 Step Output: LIST OF AI-POWERED SOLUTIONS
 <img width="3543" height="441" alt="image" src="https://github.com/user-attachments/assets/a97ca80c-de75-472c-add8-0f34da54829a" />
 
+## Elias
+
+Hi Coaches. Since everyone will be using the Researcher Agent, I want to share some helpful tips for your tables. 
+1 - Advise users to be specific in their prompts; Researcher is mainly connected to GRAPH and will search user documents first, then documents shared with the user, and finally any document the user can access. If users want to search outside the organization, they should specify "Use only reputable web sources and ignore internal content". 
+2 - Instead of copying results from Copilot, it's best for your teams to call the Researcher in the prompt area by clicking the Researcher icon or using the "@" symbol. This approach ensures smoother and more concise research by including the existing context. If you already use these techniques, that's great. If you need help, please let me know.
+
+
