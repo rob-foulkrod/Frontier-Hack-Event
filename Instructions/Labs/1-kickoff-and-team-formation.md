@@ -95,5 +95,5 @@ Advise team not to spend time on Team Name; make suggestions (e.g. kid’s favor
 Download 2 copies of HackEventTemplate.docx; Copilot Standard & Researcher
 
 Step Output (letting them know this upfront helps): TEAM NAME & ROLE ASSIGNMENT
-<img width="2064" height="470" alt="image" src="https://github.com/user-attachments/assets/ce979b94-f234-4fea-bc36-38cc1d7f9441" />
+
 
