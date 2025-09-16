@@ -5,6 +5,8 @@ task:
 
 ## Step 2: Define the Challenge
 
+> ### ⏰ **Start time around 3:20 PM**
+
 **Suggested time:** 10 minutes  
 
 As a team, **identify and agree on one common challenge** to focus on for the rest of the Frontier Hack Event. This could be something simple, like scheduling meetings, or something complex — for example, processes tied to multiple systems, sensitive data, or compliance requirements. The goal is to spark conversation about what’s working, what’s not, and where AI might play a role.

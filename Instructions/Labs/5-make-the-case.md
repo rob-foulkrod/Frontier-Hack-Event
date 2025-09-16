@@ -5,6 +5,8 @@ task:
 
 ## Step 5: Make the Case
 
+> ### ⏰ **Start time around 4:00 PM**
+
 **Suggested time:** 10 minutes  
 
 Now that you’ve explored possible solutions, it’s time to select the one your team believes is the best fit - and justify your choice. The goal is to explain clearly *why* you chose it, *why others weren’t selected*, and ensure it’s the right level of complexity.  
