@@ -90,3 +90,12 @@ Thank you for your creativity, collaboration, and energy today. We can’t wait 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Go back to Frontier Hack Event home
 </a>
+
+## Notes
+TIPS:
+
+Promote using Copilot to summarize the team’s chosen solution and key insights and addition to using it to create an image. Form to be updated
+
+Step Output: Idea Submission Form
+<img width="2399" height="261" alt="image" src="https://github.com/user-attachments/assets/c02d1b99-0332-4015-9a9a-ed9ae10c66cd" />
+
