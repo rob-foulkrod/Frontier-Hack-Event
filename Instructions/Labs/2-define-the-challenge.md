@@ -95,3 +95,18 @@ In the provided Hack Event Template, fill in the **Problem or opportunity statem
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
 </a>
+
+## Notes
+
+TIPS:
+Time crunch, time crunch, time crunch
+
+Step is about identifying multiple challenges either via discussions or Copilot (latter is recommended) and selecting one challenge to focus on and draft problem statement
+
+Point them to the sample prompt (will help with time crunch)
+
+Selecting one challenge: Ask Copilot to prioritize using greatest impact criteria, that is, which would have the greatest impact if solved.
+
+Step Output (for selected challenge): PROBLEM STATEMENT
+<img width="2839" height="486" alt="image" src="https://github.com/user-attachments/assets/32b2820b-13ed-498f-b037-795cd326e4c0" />
+
