@@ -86,9 +86,9 @@ TIPS:
 Get a sense of level of Copilot awareness around the table / Ask them to create a Teams chat for collaboration and sharing prompt outputs
 
 Role assignment is helpful. Suggested:
-Table Lead
-Prompt Runner (x2); Copilot Standard & Researcher
-Note Taker/Scribe (x2); Copilot Standard & Researcher
+- Table Lead
+- Prompt Runner (x2); Copilot Standard & Researcher
+- Note Taker/Scribe (x2); Copilot Standard & Researcher
 
 Advise team not to spend time on Team Name; make suggestions (e.g. kid’s favorite Cartoon character/series)
 
