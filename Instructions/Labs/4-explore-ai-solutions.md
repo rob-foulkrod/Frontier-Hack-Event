@@ -79,3 +79,16 @@ In the provided Hack Event Template, fill in the **Approach Options** section. S
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
 </a>
+
+## Notes
+TIPS:
+
+Suggest using both Copilot Standard and Researcher (call out the additional time for Researcher). If team using only Researcher, members might be left “twiddling the thrums” while waiting for Researcher’s response.
+
+Watch Researcher progress – might require clarification and is waiting
+
+Reminder: Not building a technical agent or solutioning here
+
+Step Output: LIST OF AI-POWERED SOLUTIONS
+<img width="3543" height="441" alt="image" src="https://github.com/user-attachments/assets/a97ca80c-de75-472c-add8-0f34da54829a" />
+
