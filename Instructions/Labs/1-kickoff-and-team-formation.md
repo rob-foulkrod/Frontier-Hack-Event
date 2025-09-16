@@ -78,3 +78,22 @@ In the provided Hack Event Template, fill in the sections for **Team Name** and 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
 </a>
+
+---
+## Notes
+
+TIPS:
+Get a sense of level of Copilot awareness around the table / Ask them to create a Teams chat for collaboration and sharing prompt outputs
+
+Role assignment is helpful. Suggested:
+Table Lead
+Prompt Runner (x2); Copilot Standard & Researcher
+Note Taker/Scribe (x2); Copilot Standard & Researcher
+
+Advise team not to spend time on Team Name; make suggestions (e.g. kid’s favorite Cartoon character/series)
+
+Download 2 copies of HackEventTemplate.docx; Copilot Standard & Researcher
+
+Step Output (letting them know this upfront helps): TEAM NAME & ROLE ASSIGNMENT
+<img width="2064" height="470" alt="image" src="https://github.com/user-attachments/assets/ce979b94-f234-4fea-bc36-38cc1d7f9441" />
+
