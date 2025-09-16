@@ -85,12 +85,12 @@ In the provided Hack Event Template, fill in the **Problem or opportunity statem
 
 #### Next Step: Break Down the Problem
 
-<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/1-kickoff-and-team-formation" 
+<a href="https://rob-foulkrod.github.io/Frontier-Hack-Event/Instructions/Labs/1-kickoff-and-team-formation" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">
    &#x25C0; Previous
 </a>
-<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/3-break-down-the-problem.html" 
+<a href="https://rob-foulkrod.github.io/Frontier-Hack-Event/Instructions/Labs/3-break-down-the-problem.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;

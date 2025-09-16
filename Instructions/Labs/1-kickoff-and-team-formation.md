@@ -73,7 +73,7 @@ In the provided Hack Event Template, fill in the sections for **Team Name** and 
 
 #### Next Step: Define the Challenge
 
-<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/2-define-the-challenge.html" 
+<a href="https://rob-foulkrod.github.io/Frontier-Hack-Event/Instructions/Labs/2-define-the-challenge.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
