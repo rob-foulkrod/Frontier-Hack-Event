@@ -71,3 +71,19 @@ In the provided Hack Event Template, fill in the **Pain Points & Inefficiencies*
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
 </a>
+
+## Notes
+TIPS:
+Time crunch, time crunch, time crunch!
+
+Step is about identifying multiple challenges either via discussions or Copilot and selecting one challenge to focus on and draft problem statement
+
+Point team to the sample prompt (will help with time crunch)
+
+Reminder: Not building a technical agent or solutioning here
+
+Selecting one challenge: Ask Copilot to prioritize using greatest impact criteria, that is, which would have the greatest impact if solved.
+
+Step Output (for selected challenge): PAIN POINTS & INEFFICIENCIES
+<img width="2443" height="576" alt="image" src="https://github.com/user-attachments/assets/52dafa91-a021-4bce-af23-8cfc14065bb1" />
+
