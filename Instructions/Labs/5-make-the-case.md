@@ -63,3 +63,11 @@ In the provided Hack Event Template, fill in the **Chosen AI/Microsoft Solution 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
 </a>
+
+## Notes
+TIPS:
+
+Reminder: They are NOT building a technical agent or the team chosen solution
+
+Step Output: CHOSEN AI/MICROSOFT SOLUTION & WHY
+<img width="1362" height="261" alt="image" src="https://github.com/user-attachments/assets/244096e1-afb7-4216-b5a0-0383aca79a37" />
