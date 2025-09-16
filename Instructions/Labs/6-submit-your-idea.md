@@ -85,7 +85,7 @@ Thank you for your creativity, collaboration, and energy today. We can’t wait 
 
 #### Steps Complete:
 
-<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/" 
+<a href="https://rob-foulkrod.github.io/Frontier-Hack-Event/" 
    style="display:inline-block; padding:10px 18px; background-color:#0078D4; color:#ffffff; 
    text-decoration:none; border-radius:6px; font-weight:bold;">
 Go back to Frontier Hack Event home

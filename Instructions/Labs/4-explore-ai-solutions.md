@@ -69,12 +69,12 @@ In the provided Hack Event Template, fill in the **Approach Options** section. S
 
 #### Next Step: Make the Case
 
-<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/3-break-down-the-problem.html" 
+<a href="https://rob-foulkrod.github.io/Frontier-Hack-Event/Instructions/Labs/3-break-down-the-problem.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#ffffff; color:#0078D4; font-weight:bold; text-decoration:none;">
    &#x25C0; Previous
 </a>
-<a href="https://microsoftlearning.github.io/Frontier-Hack-Event/Instructions/Labs/5-make-the-case.html" 
+<a href="https://rob-foulkrod.github.io/Frontier-Hack-Event/Instructions/Labs/5-make-the-case.html" 
    style="display:inline-block; padding:10px 18px; border:1px solid #0078D4; border-radius:6px; 
           background-color:#0078D4; color:#ffffff; font-weight:bold; text-decoration:none; margin-left:10px;">
    Next &#x25B6;
